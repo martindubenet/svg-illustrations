@@ -26,9 +26,9 @@ Generic vectorial illustrations I designed while working on different projects.
 </dd>
 <dt><a href="payment-methods/"><b>Payement methods</b></a></dt>
 <dd>
-<img width="50%" src="payment-methods/banq-check-specimen.svg" title="banq-check-specimen.svg"/><br />
-<img width="25%" src="payment-methods/card-placeholder.svg" title="card-placeholder.svg"/>
-<img width="25%" src="payment-methods/card_quebec-payment-brands_fr.svg" title="card_quebec-payment-brands_fr.svg"/>
+<p><img width="50%" src="payment-methods/banq-check-specimen_fill--beige.svg" title="banq-check-specimen_fill--beige.svg"/></p>
+<p><img width="25%" src="payment-methods/card-placeholder.svg" title="card-placeholder.svg"/>
+<img width="25%" src="payment-methods/card_quebec-payment-brands_fr.svg" title="card_quebec-payment-brands_fr.svg"/></p>
 </dd>
 <dt><a href="road-signs/"><b>Road signs</b></a></dt>
 <dd>
