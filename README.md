@@ -1,4 +1,4 @@
-# svg-illustrations
+# ![wiki tab](https://martindube.net/assets/img/ext/github_repositories-martindubenet_heading--02.svg) svg-illustrations
 
 Generic vectorial illustrations I designed while working on different projects.
 
