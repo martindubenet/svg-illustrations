@@ -2,17 +2,18 @@
 
 Generic vectorial illustrations I designed while working on different projects.
 
-&nbsp;
 
 ## Content overview
 
 <dl>
 <dt><a href="device-bezel-templates/"><b>Device bezel templates</b></a></dt>
 <dd>
-<p>For my latest <a href="https://martindube.net/en/resume" target="_blank">resume &amp; portfolio</a> I used recent devices that are common in 2026 to display mockups within bezels (frames) templates which corresponds to the appearance of the other devices in relation to each other.</p>
-<p><img width="100%" src="device-bezel-templates/pc-frame_mackbook-air15m4.svg" title="pc-frame_mackbook-air15m4.svg"></p>
+<p>For my latest <a href="https://martindube.net/en/resume" target="_blank">resume &amp; portfolio</a> I used recent devices that are common in 2026 to display mockups within bezels (frames) templates which match the appearance and native dimensions (<code>viewBox</code>) of the other devices in relation to each other. They all have a subtle reflection visible on the piano black bezels. This explains why I needed to duplicate the iPad in both orientation.</p>
+<p><img width="100%" src="device-bezel-templates/pc-frame_mackbook-air15m4.svg" title="pc-frame_mackbook-air15m4.svg"><br />
+Macbook Air 15" M4</p>
 <p><img width="15%" src="device-bezel-templates/phone-frame_google-pixel10a.svg" title="phone-frame_google-pixel10a.svg"> 
-<img width="15%" src="device-bezel-templates/phone-frame_iphone-air2026.svg" title="phone-frame_iphone-air2026.svg"></p>
+<img width="15%" src="device-bezel-templates/phone-frame_iphone-air2026.svg" title="phone-frame_iphone-air2026.svg"><br />
+Google Pixel 10A / iPhone Air</p>
 <p><img width="50%" src="device-bezel-templates/tablet-frame_ipad2025_landscape.svg" title="tablet-frame_ipad2025_landscape.svg"> 
 <img width="35%" src="device-bezel-templates/tablet-frame_ipad2025_portrait.svg" title="tablet-frame_ipad2025_portrait.svg"></p>
 </dd>
